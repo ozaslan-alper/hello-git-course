@@ -1,0 +1,5 @@
+# Files end with .in, .out, .pyc
+
+.in
+.out
+.pyc
